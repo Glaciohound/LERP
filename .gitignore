@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# LERP specific
+experiment_log/
+lerp/_legacy/
+graph_completion/_legacy/
+graph_completion/src/train/_legacy/
